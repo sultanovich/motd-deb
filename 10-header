@@ -2,4 +2,4 @@
 # This script generates a ascii art heading
 # You need to install the tool figlet for this to work!
 # apt-get install figlet
-figlet -f big "Title"
+figlet -f big "Sultano"
