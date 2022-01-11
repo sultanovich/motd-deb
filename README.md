@@ -1,6 +1,6 @@
 # motd-files
 
-This repository serves as a container for all of my motd files I use. 
+ALL This repository serves as a container for all of my motd files I use. 
 
 ## What is a 'motd'?
 When you login to a system (e.g. via ssh), your system will prompt you with the **m**essage **o**f **t**he **d**ay (motd). Normally the text to be shown there is stored under `/etc/motd` but there was demand for dynamic `motd`s. That's when the package `update-motd` became popular. The history of that is kinda weird and crazy, that's why you find a lot of confusing articles out there on how to set it up (which might be way outdated by now).
